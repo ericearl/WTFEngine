@@ -4,14 +4,14 @@ $(function() {
 
     WTF.init({
 
-        "heading": [
+        heading: [
             "I'm going to fucking roleplay a",
             "Check the stats on this, a fucking",
             "Look at me, I'm going to be a fucking",
             "My character is a fucking awesome"
         ],
     
-        "response": [
+        response: [
             "I don't fucking want that one",
             "Already fucking played one",
             "Give me a-fucking-nother one",
@@ -19,12 +19,12 @@ $(function() {
             "Make a fucking better character"
         ],
     
-        "template": [
+        template: [
             "@Adj @Race @Class from @Place who @Quirk and @Quirk",
             "@Adj @Race @Class from @Place who @Quirk"
         ],
     
-        "Adj": [
+        Adj: [
             "Absent-minded",
             "Adorable",
             "Aloof",
@@ -198,7 +198,7 @@ $(function() {
             "Zippy"
         ],
     
-        "Race": {
+        Race: {
             "Core-Race": [
                 "Dwarf",
                 "Elf",
@@ -229,7 +229,7 @@ $(function() {
             ]
         },
     
-        "Class": {
+        Class: {
             "Core-Class": [
                 "Barbarian",
                 "Bard",
@@ -290,7 +290,7 @@ $(function() {
             ]
         },
     
-        "Place": [
+        Place: [
             "a haunted house",
             "an inactive volcano",
             "a sleepy harbor town",
@@ -424,7 +424,7 @@ $(function() {
             "a sandy beach"
         ],
     
-        "Quirk": [
+        Quirk: [
             "can only where a suit to everything",
             "literally can not add numbers",
             "has no sense of smell",
