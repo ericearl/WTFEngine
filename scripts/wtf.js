@@ -14,7 +14,7 @@ var WTF = (function() {
     var RE_QUOTE = /\"([^\"]+)\"/gi;
     var RE_JSON = /\.json$/i;
     var RE_COL = /^gsx\$(.+)$/i;
-    var RE_KEY = /[a-z0-9_-]/i;
+    var RE_KEY = /[a-z0-9_-]+/i;
     var DOCS_PATH = "https://docs.google.com/spreadsheets/d/e/{key}/pub?gid=0&single=true&output=csv";
 
 
@@ -341,7 +341,7 @@ var WTF = (function() {
                     $.ajax({
                         url: DOCS_PATH.replace( '{key}', data ),
                         success: function( data, status, xhr ) {
-                            corpus = parseJSON( data );
+                            corpus = parseCSV( url );
                             start();
                         },
                         error: function( xhr, errorType, error ) {
