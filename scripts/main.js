@@ -198,97 +198,29 @@ $(function() {
             "Zippy"
         ],
     
-        Race: {
-            "Core-Race": [
-                "Dwarf",
-                "Elf",
-                "Gnome",
-                "Half-Elf",
-                "Half-Orc",
-                "Halfling",
-                "Human"
-            ],
+        Race: [
+            "Dwarf",
+            "Elf",
+            "Gnome",
+            "Half-Elf",
+            "Half-Orc",
+            "Halfling",
+            "Human"
+        ],
     
-            "Adv. Race Guide": [
-                "Aasimar",
-                "Catfolk",
-                "Dhampir",
-                "Drow",
-                "Fetchling",
-                "Goblin",
-                "Hobgoblin",
-                "Ifrit",
-                "Kobold",
-                "Orc",
-                "Oread",
-                "Ratfolk",
-                "Slyph",
-                "Tengu",
-                "Tiefling",
-                "Undine"
-            ]
-        },
-    
-        Class: {
-            "Core-Class": [
-                "Barbarian",
-                "Bard",
-                "Cleric",
-                "Druid",
-                "Fighter",
-                "Monk",
-                "Paladin",
-                "Ranger",
-                "Rogue",
-                "Sorcerer",
-                "Wizard"
-            ],
-    
-            "Adv. Class Guide": [
-                "Alchemist",
-                "Cavalier",
-                "Inquisitor",
-                "Summoner",
-                "Oracle",
-                "Witch"
-            ],
-    
-            "Adv. Player Guide": [
-                "Arcanist",
-                "Bloodrager",
-                "Brawler",
-                "Hunter",
-                "Investigator",
-                "Shaman",
-                "Skald",
-                "Slayer",
-                "Swashbuckler",
-                "Warpriest"
-            ],
-    
-            "Ult. Combat": [
-                "Gunslinger",
-                "Ninja",
-                "Samurai"
-            ],
-    
-            "Ult. Magic": [
-                "Magus"
-            ],
-    
-            "Ult. Intrigue": [
-                "Vigilante"
-            ],
-    
-            "Occult": [
-                "Kineticist",
-                "Medium",
-                "Mesmerist",
-                "Occultist",
-                "Psychic",
-                "Spiritualist"
-            ]
-        },
+        Class: [
+            "Barbarian",
+            "Bard",
+            "Cleric",
+            "Druid",
+            "Fighter",
+            "Monk",
+            "Paladin",
+            "Ranger",
+            "Rogue",
+            "Sorcerer",
+            "Wizard"
+        ],
     
         Place: [
             "a haunted house",
