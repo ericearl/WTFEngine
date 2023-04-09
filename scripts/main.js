@@ -36,6 +36,6 @@ $(function() {
 
     // Populate using a Google spreadsheet ID (you must publish it first!)
     // @see https://support.google.com/drive/answer/37579?hl=en
-    WTF.init( 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR8CGgeY30igIX29CrsV1E6m8vbwybFLtD7hmMuQgtNi2Jrz3Ce48flXl3QO-xbQDZpyOhIQ-JpmiQ1/pubhtml?gid=0&single=true' );
+    WTF.init( '2PACX-1vR8CGgeY30igIX29CrsV1E6m8vbwybFLtD7hmMuQgtNi2Jrz3Ce48flXl3QO-xbQDZpyOhIQ-JpmiQ1' );
 
 });
