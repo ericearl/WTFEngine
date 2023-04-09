@@ -14,8 +14,8 @@ var WTF = (function() {
     var RE_QUOTE = /\"([^\"]+)\"/gi;
     var RE_JSON = /\.json$/i;
     var RE_COL = /^gsx\$(.+)$/i;
-    var RE_KEY = /[a-z0-9_-]{32,}/i;
-    var DOCS_PATH = "https://spreadsheets.google.com/feeds/list/{key}/od6/public/values?alt=json";
+    var RE_KEY = /[a-z0-9_-]/i;
+    var DOCS_PATH = "https://docs.google.com/spreadsheets/d/e/{key}/pub?gid=0&single=true&output=csv";
 
 
     var templates;
