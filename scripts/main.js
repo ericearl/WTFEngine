@@ -5,7 +5,7 @@ $(function() {
     WTF.init({
 
         heading: [
-            "I'm going to fucking roleplay a",
+            "Watch as I fucking roleplay a",
             "Check this out, a fucking",
             "Look at me, I'm going to be a fucking",
             "My character is a fucking"
@@ -466,7 +466,6 @@ $(function() {
             "a baker's guild",
             "a sea side cove",
             "a group of assassins",
-            "a poison apple orchard",
             "a place where it never stops raining",
             "a town of no magic",
             "a nomadic tribe wandering the plains",
@@ -772,7 +771,6 @@ $(function() {
             "believes they have supernatural luck",
             "like to trick people",
             "has a slight case of amnesia",
-            "is tired of all these fucking snakes",
             "knows they're in a game but nobody believes them",
             "always wants to smoke a pipe",
             "was part of a prison break",
