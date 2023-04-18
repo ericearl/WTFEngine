@@ -678,7 +678,7 @@ $(function() {
             "gets no respect as a villain",
             "gets no respect as a hero",
             "is addicted to gambling",
-            "on the run from having an affair with a princess",
+            "is on the run from having an affair with a princess",
             "is a caravan robber",
             "is on their second divorce",
             "is on the run from an arranged marriage",
