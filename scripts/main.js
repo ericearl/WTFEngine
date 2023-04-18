@@ -389,20 +389,8 @@ $(function() {
 
         Genotype: [
             "Human",
-            "Canid",
-            "Cetacean",
-            "Feline",
-            "Pithecine",
-            "Ursoid",
-            "Mechanical",
-            "Organic",
-            "Installation",
-            "Chembu",
-            "Javawayn",
-            "Hydragand-Dezimeer",
-            "Viri",
-            "Hooyow",
-            "Lowhigh"
+            "Xenomorph",
+            "Synthetic"
         ],
 
         Occupation: [
